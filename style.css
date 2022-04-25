@@ -261,3 +261,18 @@ header
   margin-right: 0;
 }
 
+/* Footer */
+
+footer
+{
+  height: 60px;
+  width: 100%;
+  background-color: #ec715f;
+  line-height: 60px;
+}
+.footer-text
+{
+  font-size: 16px;
+  color: #fafafa;
+  text-align: center;
+}
