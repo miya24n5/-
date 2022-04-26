@@ -287,6 +287,14 @@ footer
   {
     width: 90%;
   }
+  .left-content
+  {
+    width: 100%;
+  }
+  .right-content
+  {
+    width: 100%;
+  }
 
   /* header */
 
@@ -375,6 +383,18 @@ footer
   .strength:first-child
   {
     margin-top: 0;
+  }
+
+  /* profile */
+
+  .profile-group
+  {
+    flex-flow: row wrap;
+    text-align: center;
+  }
+  .profile-group .left-content
+  {
+    margin-bottom: 20px;
   }
 
 
