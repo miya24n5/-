@@ -357,7 +357,25 @@ footer
 
   /* feature */
 
-  
+  #feature
+  {
+    background-position: center;
+    background-size: cover;
+  }
+  .strength-group
+  {
+    flex-flow: row wrap;
+    width: 320px;
+  }
+  .strength
+  {
+    margin-top: 10px;
+    margin-right: 0;
+  }
+  .strength:first-child
+  {
+    margin-top: 0;
+  }
 
 
 }
