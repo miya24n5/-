@@ -397,5 +397,29 @@ footer
     margin-bottom: 20px;
   }
 
+  /* contact */
+
+  .contact-group
+  {
+    width: 100%;
+    flex-flow: row wrap;
+    text-align: center;
+  }
+  .left-contact-content
+  {
+    width: 100%;
+  }
+  .right-contact-content
+  {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .right-contact-content .fab
+  {
+    font-size: 50px;
+    margin-right: 8px;
+  }
+
+
 
 }
